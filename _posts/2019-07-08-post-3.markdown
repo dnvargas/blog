@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "OneNote"
+date:   2019-07-08 16:48:42 -0500
+categories: 
+---
+I started using Onenote to organize my notes when I was taking Japanese back in college. As part of a midterm and final, I had to speak in Japanese asking and answering questions. OneNote has an audio recording feature that allowed me to record my voice asking and answering these questions and listen to the files helped me memorize them.
+
+At first, I didn't have a very organized way of using Onenote. I just created a page here and there when needed. This changed the beginning of 2017 when I decided to teach myself how to code. I chose Codecademy as a free online school and hand wrote my notes from each section. Since I felt like I needed to try a new method of learning I switched to Treehouse and again hand wrote my notes for the first few sections of the Front End Web Development Track.
+
+A couple months passed and I felt like I forgot most of what I have learned.  Looking through my paragraph after paragraph notes was not an easy task to find answers and review concepts.
+
+Deciding I need a more streamlined approach to note taking I retook the courses on Codecademy typing my notes now on OneNote. I did the same for the videos I watched on Treehouse and have been using it for my learning since.
+
+Team Treehouse has real instructors teaching different concepts using videos. I love this approach and like to supplement these by reading the script and captions. After watching multiple videos and working through many quizzes and coding challenges it's nice to have an at a glance how-to guide for what I just learned.
+
+OneNote allows pages and chapters, so it is really easy to add other related concepts on on file. It is set up to look like a real notebook or binder with color-coded dividers. I add background colors to headings and main sections titles to keep organized in a visual way along with making the typeface bold.
+
+It is easy to screenshot code examples and paste them into the OneNote document. You can also add links, images, videos, and tables. Another feature I use regularly is the highlighter feature. I use this on code sections I included to add emphasis on.
+
+After I am finished with a topic I print out the page and add it to my web development binder. I keep this as a self-made reference book. Using Onenote keeps all of my notes organized, easy to read and navigate.
+
+I have synced my OneNote projects and files onto my cloud account so I can access them anywhere if needed.
+
+Switching to a Mac from a Windows PC I have run into some problems using OneNote. The Copy/Paste feature crashes the program and does not allow any pasting to happen. I have tried researching some solutions and this seems to be a common problem with the switch. Also, the programs are laid out a bit different and takes some getting used to. Printing has caused some problems and I need to research workarounds for this.
+
+I have tried using Pages for Mac but the program is comparable to Microsoft Word and not as extensive as OneNote. Another recommended program is EverNote which is definitely something I want to look into.
+
+Thanks for reading! 

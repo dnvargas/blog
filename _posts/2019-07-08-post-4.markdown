@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Bullet Journaling"
+date:   2019-07-08 16:48:42 -0500
+categories: 
+---
+
+Mid-July 2016 I invested in an Erin Condren lifePlanner and dropped mad cash on stickers and washi tape. Each month had a different theme with new sticker sets. It helped me stay organized with assignments, tests for school, my work schedule, family and friend's birthdays and when bills were due. I also had arguably the cutest sticker sets from Sweet Kawaii Design. Although the planner worked OK for me then, my life has changed drastically since. I am no longer a student nor do I work full time. I do however now have the massive undertaking of teaching myself how to code.
+
+I wrote a checklist of languages, frameworks, plugins, programs, and concepts I need to learn for the route I want to take into basic front-end web development that is pretty daunting to look at. After taking a few courses on Codecademy and writing some notes through OneNote that hardly made sense a few months later I was convinced that I just wasted months of my life and I forgot everything I learned. I realized I needed a record of my accomplishments. I have since then improved my note-taking skills but still needed to have a history of what I have learned to keep my sanity.
+
+After watching some YouTube videos of Bullet Journal setups I fell in love with the simplicity of it.  I bought the Leuchtturm1917 journal from Amazon.
+
+
+
+The How to Bullet Journal video is recommended and describes the analog system it uses. This concept tracks the past, organizes the present and allows you to plan the future.
+
+With my Erin Condren planner, I ended up falling out of using it. I would plan a month ahead cleaning schedules, face mask days, workouts three times a week, and even meals each day. My life just didn't work that way no matter how much I wanted it to. I even stopped using it for remembering Birthdays thanks to Facebook reminders.
+
+I still have my planner but I don't see myself ever looking back through it. Since I spent so much time and money on it I  feel like its now one of those necessary things I can't part with even though I have no use for it anymore. Keeping this in mind I decided the Bullet Journal was only going to be for Code-related stuff and nothing else. That way it would always be useful. Since the analog system is so fast and easy to set up there is a higher chance of me actually using it.
+
+My bullet journal thus far:
+
+a Key
+Table of Contents
+Goals for 2018
+Future Log 2018 (Year calendar)
+
+
+Monthly Log
+Weekly Log With Month Focus (Topic of focus for the month)
+Daily Log
+Next, I have a few collection pages which are great for checklists, notes or anything you want.
+
+Podcasts to listen to
+Books to Read
+Web Design Track Video Checklist
+Front-End Web Development Video Checklist
+Console Foundations concept notes
+These checklists give me a quick birdseye view of what I have accomplished and what I still need to complete. Same with the concept notes. I wrote them as a spread so I don't need to turn any pages to see all the notes. With a quick glance, I can see what the code is needed when using the console.
+
+So far the bullet journal works better than I could even imagine. I honestly never thought about all of the potentials a journal could have. Planner, sketchbook, notebook, calendar, address book... etc. smh
+
+Hope this post was insightful for those considering giving bullet journals a try.
+
+Thanks for reading!
+

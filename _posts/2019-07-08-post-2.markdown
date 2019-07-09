@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Sketch Wireframes"
+date:   2019-07-08 16:48:42 -0500
+categories: 
+---
+Starting out I drew my wireframes on lined paper and would have to redraw it every time I changed my mind.
+
+I knew early on in my learning that I could use software to help organize and design my web ideas. Photoshop was daunting and complicated to me. I have only used it to edit photos.  I have not had the chance to learn Illustrator yet either.  Luckily Sketch has a 30-day free trial that allows you to get familiar with the program and make a decision. To learn the program I used Treehouse's Sketch Basics series of tutorial videos even though there were some things I was not able to do without the full paid version.
+
+I fell in love with Sketch's minimal design. The program has 3 main sections around the workspace called the Canvas. There's a Layer list on the left, a toolbar at the top and an inspector panel on the right.
+
+The left side layer list includes what artboards, pages, layers (shapes and text boxes) you have added. You can either click the layer on the workspace or click the layer in the layer list to select it.
+
+You can rename the layers so it is easier to keep track of them. I also rename the Artboards and pages as well. I have some layers hidden in case I change my mind of if I want to use them or not.
+
+I like to lock down my header and footer while adjusting icons and text so I don't accidentally move the background image around.
+
+The icons on the left side of the name indicated what the layers are. Easily locate images, text, shapes, and lines.
+
+The toolbar at the top of the page is fully customizable. I added my most used tools and grouped them together in the steps I used them. You can also add spaces to break up the groups as well.
+
+
+
+The inspector panel on the right side adapts its option to the item you clicked on. If its an image you want to edit there are Resizing, Shared Styles, and Shadow options you can change. If editing text the panel options change to typical things you would change for Text. Text Shared Styles, Typeface, Weight, Color, Size, Alignment, and Spacing.
+
+The canvas is infinite. I like to have the ruler option showing so I have a better idea where I am when working on multiple artboards on the same page.
+
+Showing all the options all at once for a newbie like me is overwhelming. Sketch only shows options that you need. This is a gentle approach to show what I am allowed to do with what I have selected.
+
+Another selling point is sketch has a large community that helps build useful plugins for the program. There are many tutorials on how to use these as well.
+
+
+
+Some plugins are so beneficial that it feels like your cheating or taking a shortcut. This saves a lot of time. I was able to knock out a full wireframe and high fidelity markup design of my first project website in just a day.
+
+I did not have images or text yet for the site but was able to use the plugin Content Generator to add in stock photos and Lorem Ipsum text as a placeholder. This allowed me to continue working on the design of the site with a better idea of what the finished product would look like.
+
+There are many other useful plugins. I feel like with the just few I have downloaded in the image above I have just scratched the surface of what Sketch and their amazing community can do for aiding my content creations.
+
+Here is a screenshot of my first site wireframe so far. I utilized different sized artboards for responsive design.
+

@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Team Treehouse"
+date:   2019-07-08 16:48:42 -0500
+categories: 
+---
+
+
+The first online tutorials I started learning to code with was on Codecademy.
+
+Codecademy is a popular free online school that has chapter-like sections with interactive coding exercises.
+
+I finished the courses Make a Website, Learn Sass, Learn JavaScript, and quit 25% through learning the Command Line. Even 25% through the course, I had absolutely no idea what the console was and it wasn't making any sense to me.
+
+I turned to YouTube for help on the command line and came across some Youtubers that were students of Treehouse. The online school seemed more interesting and interactive than Codecademy with their videos that were taught by real teachers.  This was when I decided to try a new online resource for learning to code. After their 7-day free trial, I made the switch.
+
+
+
+If you are thinking about giving Treehouse a try here is a referral code for their 7-day free trial. (If you chose to sign up I can get a discount on my account as long as your account is active. For everyone that you refer that signs up you also can get a discount on your membership.)
+
+http://referrals.trhou.se/daniellvargas
+
+The videos are great quality and include fun animations. After each section, there are quiz questions or a coding challenge that help test what you have learned. Also after each video and quiz, you earn points. You can also earn badges. It's a great way to track your progress and gives you a sense of accomplishment and adds a game like feel to the course.
+
+After signing up I wasn't sure exactly where I should start. I did know I wanted to learn to code but didn't have much more of a plan at the time. I chose the Front End Web Development track since that was one of the first ones recommended for beginners. I liked that it included how to make your own websites from scratch. Also some other topics I would need to learn eventually like learning the command line, using git, and putting your code up online on GitHub.
+
+I use OneNote as a companion for taking notes on a different monitor while I watch the videos. I can screenshot code examples and keep my notes organized by topic. I keep all these notes printed out in a binder as a quick reference guide for when I need to look something up. I realized I needed this when I moved on to JavaScript and quickly forgot parts of HTML and CSS.
+
+I am close to finishing the Front End Web Development track and there are a few avenues I want to explore next. So far I think I will take Treehouse's Web Design Track. I am also interested in learning PHP for Wordpress.
+
+
+
+Treehouse has many pre-setup tracks you can take and videos in their library. They also update these with new information and content often. With over 1,000 videos on their site, I don't see myself getting bored anytime soon.
+

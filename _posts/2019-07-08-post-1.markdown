@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Learning Sketch"
+date:   2019-07-08 16:48:42 -0500
+categories: 
+---
+The learning curve for Sketch is not that steep. That being said, I need a refresher every now and then on it's different aspects and best practices. Here are some of the main resources that I recomend. 
+
+I was introduced to Sketch after watching Charlie Marie 's YouTube videos Introduction to Sketch for Web Design and Designing a Landing Page in Sketch - Tutorial.
+
+I decided from there to learn more about creating digital wireframes with the 30-day free trial Sketch offers.
+
+Since I was already a student of Team Treehouse I decided to take the 121- minute Sketch Basics course they offered.
+
+I  learned some basics of the overall program and what it did. Since I did not have the full version, just the 30-day free trial, I did not have access to all the features needed to complete the iPhone app project. By learning the basics of the program I was able to create some wireframes on my own to get the hang of things.
+
+After taking the Sketch Basics course I decided to buy the software and use it for my first web project.
+
+(Read my blog posts Creating Wireframes with Sketch and My First Project.)
+
+Throughout the process of designing the landing page in my first project, I relied on more YouTube videos.
+
+One of my favorite channels is Sketch Together. The playlist I have been watching is called Sketch App Crash Course. Sketch Together shows you the in's and out's of Sketch and recommended plugins to use in a fun 29 video series.
+
+This crash course is very interesting and teaches you a lot. I recommend anyone learning Sketch to check it out before paying for an online course or a book since it just might cover all that you need to know. 
+
+You do not need to watch all 29 videos. I have watched around 15. Some videos explain the basics of a specific feature of Sketch and some are exclusively on different plugins. The titles are subject-specific for convenience.
+
+Most recently I became a member of Smashing Magazine. I purchased their Web Design e-book bundle which included The Sketch Handbook.
+
+"If you’re designing for the web today, you are probably using Sketch. We do, too, so we created The Sketch Handbook: our brand new Smashing book, filled with many practical examples and tutorials in 12 jam-packed chapters. This book will help you master all the tricky, advanced facets of Sketch, so that you’ll become more proficient and fast when using the app." -Smashing Magazine
+
+Throughout the book, the author instructs you on how to use Sketch by creating a web app. Using responsive design the book starts with a mobile-first approach then progresses to a larger full desktop.
+
+I recommend getting the ebook version so you can work on your app on Sketch while reading the handbook side by side. I think it would be harder to work on your project with the printed copy (Also the ebook is cheaper). The instructions are not clearly defined and are written in the paragraphs of the book. If I had lost my place and skipped a sentence in a paragraph I may have skipped a step I was supposed to do when creating the app.
+
+Despite this, the book is an easy read organized into chapters and headings defining the elements being presented.  There are also many color screenshots of the elements and previews of what the app is supposed to look like at different stages of development.
+
+The book also touches on design principles like image optimization, typefaces,  grid-based layouts and responsive design. Added extras are how to design icons, logos, and some mini projects.
+
+Other useful information included are links to content generators, recommended stock photography sites, and alternative vector-based design programs - what they do and how they compare to Sketch.
+
+If there are any other resources you would recommend please comment them down below including your favorite Sketch features.
+
+Thanks for reading!
