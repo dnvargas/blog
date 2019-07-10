@@ -1,0 +1,163 @@
+/*****************
+  Fonts and Size
+*****************/
+.main-nav, .header-text,.symbol, .blog-heading, .blog-title, .work-heading, .work-title, .book-heading, .th1, .th2, .th3, .th4, .social-links{
+    font-family: $stack-capitol;
+  }
+  nav a, .header-text,.symbol, .blog-heading, .blog-title, .work-heading, .book-heading, .social-links{
+    font-size: 1.8em;
+    @media #{$brk-small}{
+      font-size: 2em;
+    }
+    @media #{$brk-large}{
+      font-size: 2.5em;
+    }
+  }
+  .header-title{
+    font-family: $stack-cursive;
+    font-size: 5em;
+    @media #{$brk-small}{
+      font-size: 6em;
+    }
+    @media #{$brk-medium}{
+      font-size: 3.7em;
+  }
+    @media #{$brk-large}{
+      font-size: 5em;
+    }
+    @media #{$brk-super-large}{
+      font-size: 7em;
+    }
+  }
+  .greeting{
+    font-family: $stack-cursive;
+    font-size: 2.5em;
+    @media #{$brk-small}{
+      font-size: 3em;
+    }
+    @media #{$brk-large}{
+      font-size: 4em;
+    }
+  }
+  .main-content{
+    font-size: 1.3em;
+    @media #{$brk-large}{
+      font-size: 1.5em;
+    }
+  }
+  .follow-blog-text{
+    font-size: 1em;
+    @media #{$brk-large}{
+        font-size: 1.2em;
+    }
+  }
+  .th1, .th2, .th3, .th4, .blog-title, .work-title{
+    font-size: 1.5em;
+    @media #{$brk-medium}{
+      font-size: 1.7em;
+    }
+  }
+  .copyright {
+    font-size: 16px;
+  }
+  /***************
+    Letter Spacing
+  ****************/
+  .blog-heading, .blog-title .work-title, .work-heading, .book-heading, .th1, .th2, .th3, .th4{
+    letter-spacing: .1em;
+  }
+  /***************
+    Font Colors
+  ****************/
+  /** Orange **/
+   .header-text, nav a{
+      color: $color-prim;
+  }
+  
+  .header-title {
+    color: 	$color-text-pop;
+  }
+  /** White on Pink **/
+  a:hover, a:active, a:focus{
+    background-color: $color-sec;
+    color: $color-body;
+  }
+  /** Medium Gray **/
+  main, section, aside, .main-content, .treehouse {
+    color: $color-text-base;
+  }
+  .greeting {
+    color: $color-ter;
+  }
+  /** Pink **/
+  .bloglink {
+    color: $color-bloglink;
+  }
+  /** Light Gray on White **/
+  .bloglink:hover, .bloglink:active, .bloglink:focus {
+    background-color: $color-body;
+    color: $color-bloglink-hover;
+  }
+  /** White on Orange **/
+  .active, .blog-heading, .work-heading, .social-links {
+    background-color: $color-prim;
+    color: $color-body;
+  }
+  /** White on Pink **/
+  .blog-heading:hover, .blog-heading:active, .blog-heading:focus, .work-heading:hover, .work-heading:active, .work-heading:focus{
+    background-color: $color-sec;
+    color: $color-body;
+  }
+  /** White on Light Gray **/
+  .book-heading {
+    background-color: $color-quat;
+    color: $color-body;
+  }
+  
+  .th1, .th2, .th3, .th4{
+    background: khaki;
+    color: $color-body;
+  }
+  /** Light Gray **/
+  .copyright {
+    color: $color-text-light;
+  }
+  
+  /***********************
+    Learning-Sketch-Blog
+  ***********************/
+  div.learning-sketch-main {
+    color: $color-text-base;
+    margin: 4%;
+  }
+  
+  .learning-sketch-main {
+    font-size: 1.2em;
+  }
+  
+  .blog-title {
+    color: $color-text-base;
+    text-decoration: underline;
+  }
+  
+  .blog-date {
+    display: none;
+  }
+  
+  .source {
+    text-decoration: underline;
+  }
+  
+  .absolute-link {
+    color: $color-absolute;
+  }
+  
+  .absolute-link:hover, .absolute-link:active, .absolute-link:focus {
+    background-color: $color-body;
+    color: $color-absolute-hover;
+  }
+  
+  .blog-text, .portfolio-text, .treehouse {
+    color: $color-text-pop;
+    font-weight: bold;
+  }

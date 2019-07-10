@@ -1,0 +1,88 @@
+/**************
+  Recent Blog
+***************/
+/** Takes out underline of headings **/
+.group a {
+    text-decoration: none;
+  }
+  
+  h3 {
+    margin-top: 1px;
+  }
+  
+  aside, .recent-blog, .recent-work {
+    border: $b;
+  }
+  .blog-title{
+    margin-right: -3px;
+    margin-left: -3px;
+    text-decoration: none;
+  }
+  .recent-blog {
+    @media #{$brk-medium}{
+    float: left;
+    margin: 0 4% 5% 2%;
+    width: 46%;
+    }
+    @media #{$brk-large}{
+        float: left;
+        margin: 0 5% 0 2%;
+        width: 28%;
+    }
+  }
+    .blog-date {
+      display: contents;
+      position: absolute;
+    }
+      div.learning-sketch-main {
+        @media #{$brk-medium}{
+        margin: 10px 130px 60px 130px;
+        position: relative;
+        }
+        @media #{$brk-large}{
+          margin: 10px 250px 60px 250px;
+        }
+    }
+  /**************
+    Recent Work
+  ***************/
+  .recent-work {
+    margin: 5% 0;
+    padding-bottom: 30px;
+    @media #{$brk-medium}{
+      float: left;
+      margin: 0 0 5% 0;
+      padding-bottom: 80px;
+      width: 46%;
+    }
+    @media #{$brk-large}{
+      float: left;
+      margin: 0 2%;
+      padding-bottom: 55px;
+      width: 28%;
+    }
+  }
+  
+  /***********
+    Aside
+  ***********/
+  table, .th3, .th4, td {
+    border-top: $b;
+  }
+  .th1, .th3 {
+    border-right: $b;
+  }
+  .book-heading{
+    margin: 0;
+  }
+  aside{
+    @media #{$brk-medium}{
+      clear: both;
+  }
+    @media #{$brk-large}{
+      float: right;
+      margin: 0;
+      width: 28%;
+      clear: right;
+    }
+  }
