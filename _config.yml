@@ -38,8 +38,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-      title:
+      layout: "wrapper"
+      title: 
    
       
       #values
