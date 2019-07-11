@@ -1,28 +1,20 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Danielle Vargas</title>
-
- <link href="https://fonts.googleapis.com/css?family=Allura|Amatic+SC:700|Open+Sans" rel="stylesheet">
-
-
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-
-<meta name="theme-color" content="#ffffff">
-
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/application.css" media="screen">
-    
-  </head>
-
+ 
+    {% include head.html %}
   <body>
 
     <!-----Brings in  Blog content inside of wrapper----->
     {% include header.html %}
-    {{ content }}
+    <body>
+        <section class="post-wrapper">
+          <p class="post-date">{{ page.date }}</p>
+        </section>
+        <h1 class="post-title"></h1>
+        <article class="post-content">
+          {{content}}
+        </article>
+      </body>{{ content }}
     {% include footer.html %}
 
  
