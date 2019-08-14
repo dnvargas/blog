@@ -38,8 +38,8 @@ defaults:
       type: "posts"
     values:
       layout: "content"
-      title: ""
-  
+      title: "Post Excerpt Separator"
+      excerpt_separator: "<!--more-->"
       
       #values
 

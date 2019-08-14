@@ -280,8 +280,11 @@ div.learning-sketch-main {
   header {
     border: 2px #ff9999 dashed;
   }
+  /*Takes out border around post title and date*/
+ .post-header{
+    border: none;
+  }
 }
-
 .header {
   border: 2px #ff9999 dashed;
 }
@@ -553,5 +556,45 @@ nav ul, footer ul {
   list-style-type: none;
   padding-left: 0;
 }
+/*****************
+    Blog Page
+******************/
+.post-title{
+  font-size: 1.5em;
+  margin: 10% 20%;
+}
 
-/*# sourceMappingURL=application.css.map */
+@media (min-width: 768px) {
+  .post-title {
+  margin: 5% 30%;
+  }
+}
+.post-title:visited{
+  color: #777;
+}
+.post-title:hover {
+  color: #fff;
+  background-color: #777;
+}
+.post-content .post.excerpt{
+text-align: center;
+}
+
+.post-content p{
+  text-align: left;
+  line-height: 35px;
+  margin: 4%;
+}
+
+@media (min-width: 768px){
+.post-content{
+  margin: 5% 10%;
+  padding-bottom: 5%;
+}
+}
+@media (min-width: 1024px) {
+  .post-content {
+    margin: 0 15%;
+    font-size: 1.2em;
+  }
+}
