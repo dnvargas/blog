@@ -562,22 +562,13 @@ nav ul, footer ul {
 .post-title{
   font-size: 1.5em;
   margin: 10% 20%;
+  text-align: center;
 }
 
 @media (min-width: 768px) {
   .post-title {
-  margin: 5% 30%;
+  margin: 5% 30% 0% 30%;
   }
-}
-.post-title:visited{
-  color: #777;
-}
-.post-title:hover {
-  color: #fff;
-  background-color: #777;
-}
-.post-content .post.excerpt{
-text-align: center;
 }
 
 .post-content p{
@@ -597,4 +588,27 @@ text-align: center;
     margin: 0 15%;
     font-size: 1.2em;
   }
+}
+/* spacing around bulletlist*/
+.post-content ul{
+  padding-left: 10%;
+  margin: auto;
+  line-height: 35px;
+}
+/*bullet point list left*/
+.post-content li{
+  text-align: left;
+}
+/*list of blog titles on blog page*/
+.post-content .post-title{
+  /* border: 3px solid green; */
+  margin: 0px;
+  font-weight: bolder;
+}
+.post-content .post-title:visited{
+  color: #777;
+}
+.post-content .post-title:hover {
+  color: #fff;
+  background-color: #777;
 }

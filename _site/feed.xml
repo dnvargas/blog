@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-07-11T16:08:57-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog</title><subtitle>a blog about learning to code from home </subtitle><entry><title type="html">Learning Sketch</title><link href="http://localhost:4000/blog/learning-sketch" rel="alternate" type="text/html" title="Learning Sketch" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-1</id><content type="html" xml:base="http://localhost:4000/blog/learning-sketch">&lt;p&gt;The learning curve for Sketch is not that steep. That being said, I need a refresher every now and then on it’s different aspects and best practices. Here are some of the main resources that I recomend.&lt;/p&gt;
-
-&lt;p&gt;I was introduced to Sketch after watching Charlie Marie ’s YouTube videos Introduction to Sketch for Web Design and Designing a Landing Page in Sketch - Tutorial.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-08-15T12:48:19-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog</title><subtitle>a blog about learning to code from home </subtitle><entry><title type="html">Learning Sketch</title><link href="http://localhost:4000/blog/learning-sketch" rel="alternate" type="text/html" title="Learning Sketch" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-1</id><content type="html" xml:base="http://localhost:4000/blog/learning-sketch">&lt;p&gt;The learning curve for Sketch is not that steep. That being said, I need a refresher every now and then on it’s different aspects and best practices. Here are some of the main resources that I recomend. 
+&lt;!--more--&gt;
+I was introduced to Sketch after watching Charlie Marie ’s YouTube videos Introduction to Sketch for Web Design and Designing a Landing Page in Sketch - Tutorial.&lt;/p&gt;
 
 &lt;p&gt;I decided from there to learn more about creating digital wireframes with the 30-day free trial Sketch offers.&lt;/p&gt;
 
@@ -36,9 +36,9 @@
 
 &lt;p&gt;If there are any other resources you would recommend please comment them down below including your favorite Sketch features.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><summary type="html">The learning curve for Sketch is not that steep. That being said, I need a refresher every now and then on it’s different aspects and best practices. Here are some of the main resources that I recomend.</summary></entry><entry><title type="html">Sketch Wireframes</title><link href="http://localhost:4000/blog/sketch-wireframes" rel="alternate" type="text/html" title="Sketch Wireframes" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-2</id><content type="html" xml:base="http://localhost:4000/blog/sketch-wireframes">&lt;p&gt;Starting out I drew my wireframes on lined paper and would have to redraw it every time I changed my mind.&lt;/p&gt;
-
-&lt;p&gt;I knew early on in my learning that I could use software to help organize and design my web ideas. Photoshop was daunting and complicated to me. I have only used it to edit photos.  I have not had the chance to learn Illustrator yet either.  Luckily Sketch has a 30-day free trial that allows you to get familiar with the program and make a decision. To learn the program I used Treehouse’s Sketch Basics series of tutorial videos even though there were some things I was not able to do without the full paid version.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><summary type="html">The learning curve for Sketch is not that steep. That being said, I need a refresher every now and then on it’s different aspects and best practices. Here are some of the main resources that I recomend.</summary></entry><entry><title type="html">Sketch Wireframes</title><link href="http://localhost:4000/blog/sketch-wireframes" rel="alternate" type="text/html" title="Sketch Wireframes" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-2</id><content type="html" xml:base="http://localhost:4000/blog/sketch-wireframes">&lt;p&gt;Starting out I drew my wireframes on lined paper and would have to redraw it every time I changed my mind.
+&lt;!--more--&gt;
+I knew early on in my learning that I could use software to help organize and design my web ideas. Photoshop was daunting and complicated to me. I have only used it to edit photos.  I have not had the chance to learn Illustrator yet either.  Luckily Sketch has a 30-day free trial that allows you to get familiar with the program and make a decision. To learn the program I used Treehouse’s Sketch Basics series of tutorial videos even though there were some things I was not able to do without the full paid version.&lt;/p&gt;
 
 &lt;p&gt;I fell in love with Sketch’s minimal design. The program has 3 main sections around the workspace called the Canvas. There’s a Layer list on the left, a toolbar at the top and an inspector panel on the right.&lt;/p&gt;
 
@@ -66,9 +66,9 @@
 
 &lt;p&gt;There are many other useful plugins. I feel like with the just few I have downloaded in the image above I have just scratched the surface of what Sketch and their amazing community can do for aiding my content creations.&lt;/p&gt;
 
-&lt;p&gt;Here is a screenshot of my first site wireframe so far. I utilized different sized artboards for responsive design.&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting out I drew my wireframes on lined paper and would have to redraw it every time I changed my mind.</summary></entry><entry><title type="html">OneNote</title><link href="http://localhost:4000/blog/onenote" rel="alternate" type="text/html" title="OneNote" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-3</id><content type="html" xml:base="http://localhost:4000/blog/onenote">&lt;p&gt;I started using Onenote to organize my notes when I was taking Japanese back in college. As part of a midterm and final, I had to speak in Japanese asking and answering questions. OneNote has an audio recording feature that allowed me to record my voice asking and answering these questions and listen to the files helped me memorize them.&lt;/p&gt;
-
-&lt;p&gt;At first, I didn’t have a very organized way of using Onenote. I just created a page here and there when needed. This changed the beginning of 2017 when I decided to teach myself how to code. I chose Codecademy as a free online school and hand wrote my notes from each section. Since I felt like I needed to try a new method of learning I switched to Treehouse and again hand wrote my notes for the first few sections of the Front End Web Development Track.&lt;/p&gt;
+&lt;p&gt;Here is a screenshot of my first site wireframe so far. I utilized different sized artboards for responsive design.&lt;/p&gt;</content><author><name></name></author><summary type="html">Starting out I drew my wireframes on lined paper and would have to redraw it every time I changed my mind.</summary></entry><entry><title type="html">OneNote</title><link href="http://localhost:4000/blog/onenote" rel="alternate" type="text/html" title="OneNote" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-3</id><content type="html" xml:base="http://localhost:4000/blog/onenote">&lt;p&gt;I started using Onenote to organize my notes when I was taking Japanese back in college. As part of a midterm and final, I had to speak in Japanese asking and answering questions. OneNote has an audio recording feature that allowed me to record my voice asking and answering these questions and listen to the files helped me memorize them.
+&lt;!--more--&gt;
+At first, I didn’t have a very organized way of using Onenote. I just created a page here and there when needed. This changed the beginning of 2017 when I decided to teach myself how to code. I chose Codecademy as a free online school and hand wrote my notes from each section. Since I felt like I needed to try a new method of learning I switched to Treehouse and again hand wrote my notes for the first few sections of the Front End Web Development Track.&lt;/p&gt;
 
 &lt;p&gt;A couple months passed and I felt like I forgot most of what I have learned.  Looking through my paragraph after paragraph notes was not an easy task to find answers and review concepts.&lt;/p&gt;
 
@@ -88,9 +88,9 @@
 
 &lt;p&gt;I have tried using Pages for Mac but the program is comparable to Microsoft Word and not as extensive as OneNote. Another recommended program is EverNote which is definitely something I want to look into.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><summary type="html">I started using Onenote to organize my notes when I was taking Japanese back in college. As part of a midterm and final, I had to speak in Japanese asking and answering questions. OneNote has an audio recording feature that allowed me to record my voice asking and answering these questions and listen to the files helped me memorize them.</summary></entry><entry><title type="html">Bullet Journaling</title><link href="http://localhost:4000/blog/bullet-journaling" rel="alternate" type="text/html" title="Bullet Journaling" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-4</id><content type="html" xml:base="http://localhost:4000/blog/bullet-journaling">&lt;p&gt;Mid-July 2016 I invested in an Erin Condren lifePlanner and dropped mad cash on stickers and washi tape. Each month had a different theme with new sticker sets. It helped me stay organized with assignments, tests for school, my work schedule, family and friend’s birthdays and when bills were due. I also had arguably the cutest sticker sets from Sweet Kawaii Design. Although the planner worked OK for me then, my life has changed drastically since. I am no longer a student nor do I work full time. I do however now have the massive undertaking of teaching myself how to code.&lt;/p&gt;
-
-&lt;p&gt;I wrote a checklist of languages, frameworks, plugins, programs, and concepts I need to learn for the route I want to take into basic front-end web development that is pretty daunting to look at. After taking a few courses on Codecademy and writing some notes through OneNote that hardly made sense a few months later I was convinced that I just wasted months of my life and I forgot everything I learned. I realized I needed a record of my accomplishments. I have since then improved my note-taking skills but still needed to have a history of what I have learned to keep my sanity.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><summary type="html">I started using Onenote to organize my notes when I was taking Japanese back in college. As part of a midterm and final, I had to speak in Japanese asking and answering questions. OneNote has an audio recording feature that allowed me to record my voice asking and answering these questions and listen to the files helped me memorize them.</summary></entry><entry><title type="html">Bullet Journaling</title><link href="http://localhost:4000/blog/bullet-journaling" rel="alternate" type="text/html" title="Bullet Journaling" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-4</id><content type="html" xml:base="http://localhost:4000/blog/bullet-journaling">&lt;p&gt;Mid-July 2016 I invested in an Erin Condren lifePlanner and dropped mad cash on stickers and washi tape. Each month had a different theme with new sticker sets. It helped me stay organized with assignments, tests for school, my work schedule, family and friend’s birthdays and when bills were due. I also had arguably the cutest sticker sets from Sweet Kawaii Design. Although the planner worked OK for me then, my life has changed drastically since. I am no longer a student nor do I work full time. I do however now have the massive undertaking of teaching myself how to code.
+&lt;!--more--&gt;
+I wrote a checklist of languages, frameworks, plugins, programs, and concepts I need to learn for the route I want to take into basic front-end web development that is pretty daunting to look at. After taking a few courses on Codecademy and writing some notes through OneNote that hardly made sense a few months later I was convinced that I just wasted months of my life and I forgot everything I learned. I realized I needed a record of my accomplishments. I have since then improved my note-taking skills but still needed to have a history of what I have learned to keep my sanity.&lt;/p&gt;
 
 &lt;p&gt;After watching some YouTube videos of Bullet Journal setups I fell in love with the simplicity of it.  I bought the Leuchtturm1917 journal from Amazon.&lt;/p&gt;
 
@@ -123,9 +123,9 @@ These checklists give me a quick birdseye view of what I have accomplished and w
 
 &lt;p&gt;Hope this post was insightful for those considering giving bullet journals a try.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><summary type="html">Mid-July 2016 I invested in an Erin Condren lifePlanner and dropped mad cash on stickers and washi tape. Each month had a different theme with new sticker sets. It helped me stay organized with assignments, tests for school, my work schedule, family and friend’s birthdays and when bills were due. I also had arguably the cutest sticker sets from Sweet Kawaii Design. Although the planner worked OK for me then, my life has changed drastically since. I am no longer a student nor do I work full time. I do however now have the massive undertaking of teaching myself how to code.</summary></entry><entry><title type="html">Team Treehouse</title><link href="http://localhost:4000/blog/team-treehouse" rel="alternate" type="text/html" title="Team Treehouse" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-5</id><content type="html" xml:base="http://localhost:4000/blog/team-treehouse">&lt;p&gt;The first online tutorials I started learning to code with was on Codecademy.&lt;/p&gt;
-
-&lt;p&gt;Codecademy is a popular free online school that has chapter-like sections with interactive coding exercises.&lt;/p&gt;
+&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><summary type="html">Mid-July 2016 I invested in an Erin Condren lifePlanner and dropped mad cash on stickers and washi tape. Each month had a different theme with new sticker sets. It helped me stay organized with assignments, tests for school, my work schedule, family and friend’s birthdays and when bills were due. I also had arguably the cutest sticker sets from Sweet Kawaii Design. Although the planner worked OK for me then, my life has changed drastically since. I am no longer a student nor do I work full time. I do however now have the massive undertaking of teaching myself how to code.</summary></entry><entry><title type="html">Team Treehouse</title><link href="http://localhost:4000/blog/team-treehouse" rel="alternate" type="text/html" title="Team Treehouse" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-5</id><content type="html" xml:base="http://localhost:4000/blog/team-treehouse">&lt;p&gt;The first online tutorials I started learning to code with was on Codecademy.
+&lt;!--more--&gt;
+Codecademy is a popular free online school that has chapter-like sections with interactive coding exercises.&lt;/p&gt;
 
 &lt;p&gt;I finished the courses Make a Website, Learn Sass, Learn JavaScript, and quit 25% through learning the Command Line. Even 25% through the course, I had absolutely no idea what the console was and it wasn’t making any sense to me.&lt;/p&gt;
 
@@ -145,23 +145,30 @@ These checklists give me a quick birdseye view of what I have accomplished and w
 
 &lt;p&gt;Treehouse has many pre-setup tracks you can take and videos in their library. They also update these with new information and content often. With over 1,000 videos on their site, I don’t see myself getting bored anytime soon.&lt;/p&gt;</content><author><name></name></author><summary type="html">The first online tutorials I started learning to code with was on Codecademy.</summary></entry><entry><title type="html">Coding Podcasts</title><link href="http://localhost:4000/blog/coding-podcasts" rel="alternate" type="text/html" title="Coding Podcasts" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-6</id><content type="html" xml:base="http://localhost:4000/blog/coding-podcasts">&lt;p&gt;I am not a morning person.&lt;/p&gt;
 
-&lt;p&gt;When I do eventually emerge from my bed, I stumble straight to my Keurig to make a cup of coffee then promptly go back to my warm bed to enjoy it. In the past, I used this time to catch up on social media and check e-mails but I have found a far more beneficial task to do in the meantime- listen to podcasts.&lt;/p&gt;
-
-&lt;p&gt;Listening to a podcast in the morning requires hardly any energy and effort, is still productive and also entertaining. Listening to other people talk about their careers, and their path getting there learning code first thing in the morning really motivates me to keep studying. It puts me in the right mindset to get to my computer and continue with Treehouse videos or work on my own projects.&lt;/p&gt;
+&lt;p&gt;When I do eventually emerge from my bed, I stumble straight to my Keurig to make a cup of coffee then promptly go back to my warm bed to enjoy it. In the past, I used this time to catch up on social media and check e-mails but I have found a far more beneficial task to do instead- listen to podcasts.
+&lt;!--more--&gt;
+Listening to a podcast in the morning requires hardly any energy and effort, is still productive and also entertaining. Listening to other people talk about their careers and their path learning to program first thing in the morning really motivates me to keep studying. It puts me in the right mindset to get to my computer and continue with Treehouse videos or work on my own projects.&lt;/p&gt;
 
 &lt;p&gt;Not only do I learn about people in different coding industries and their path to greatness, I also get real advice for many code related topics I would not get from a textbook, like:&lt;/p&gt;
 
-&lt;p&gt;tips for interviewing
-finding jobs
-time management
-debugging common web performance issues
-project ideas
-blogs, and books to read
-freecodecamp.org has a very in-depth list of some of the best code-related podcasts to start listening to.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;tips for interviewing&lt;/li&gt;
+  &lt;li&gt;finding jobs&lt;/li&gt;
+  &lt;li&gt;time management&lt;/li&gt;
+  &lt;li&gt;debugging common web performance issues&lt;/li&gt;
+  &lt;li&gt;project ideas&lt;/li&gt;
+  &lt;li&gt;blogs, and books to read&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;“Why you should listen to podcasts”&lt;/p&gt;
+&lt;p&gt;freecodecamp.org has a very in-depth list of some of the best code-related podcasts to start listening to.&lt;/p&gt;
 
-&lt;p&gt;“Podcasts are simply radio-style audio shows distributed over the internet, usually for free. They provide an excellent way to consume quality information while performing daily tasks such as commuting, cleaning, or working out.” -Ayo Isaiah&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Why you should listen to podcasts”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Podcasts are simply radio-style audio shows distributed over the internet, usually for free. They provide an excellent way to consume quality information while performing daily tasks such as commuting, cleaning, or working out.” -Ayo Isaiah&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;I regularly listen to Code Newbie, and Front End Happy Hour. Newly added to my podcast list is Design Life.&lt;/p&gt;
 
@@ -171,10 +178,13 @@ freecodecamp.org has a very in-depth list of some of the best code-related podc
 
 &lt;p&gt;She has a common flow for each episode which breaks up the conversation and keeps you eager to continue listening. She introduces her guest by having them tell a little bit about themselves and their journey to where they are at now. Asking about the pros and cons of their choices and how it has helped them in the long run. Then she moves on to a series of rapid-fire fill in the blank questions including,&lt;/p&gt;
 
-&lt;p&gt;The worst advice I ever heard was &lt;strong&gt;__.
-My first app was about&lt;/strong&gt;&lt;em&gt;_.
-One thing I wish I knew when I first started to code is __&lt;/em&gt;.
-They discuss why those were the guest’s answers and move on to the shout-out section where they pick a few fun things for the listeners to check out. I love this section because it is so random. Some recommendations are code related and informative. While others are just fun, quirky things that the guest found interesting and awesome such as items on Kickstarter or comics to read.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The worst advice I ever heard was &lt;em&gt;__&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;My first app was about____.&lt;/li&gt;
+  &lt;li&gt;One thing I wish I knew when I first started to code is ___.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They discuss why those were the guest’s answers and move on to the shout-out section where they pick a few fun things for the listeners to check out. I love this section because it is so random. Some recommendations are code related and informative. While others are just fun, quirky things that the guest found interesting and awesome such as items on Kickstarter or comics to read.&lt;/p&gt;
 
 &lt;p&gt;The podcast stays true to its name by keeping the beginner developer (newbie) as the target audience for each episode. Saron does an excellent job extracting useful information from her guests that will benefit any new coder.&lt;/p&gt;
 
@@ -196,49 +206,53 @@ They discuss why those were the guest’s answers and move on to the shout-out 
 
 &lt;p&gt;Some of the topics they discuss are a bit over my head but since their episodes include a variety of topics for all skill levels, I just skip to a different one. There’s always another episode I can enjoy and revisit any skipped episodes when I’m more familiar with the topic.&lt;/p&gt;
 
-&lt;p&gt;As I have finished every course in my Front End Development Track from Treehouse not relating to JavaScript, (Yes I know I am procrastinating on that). I have really favored anything design related. My husband says design comes naturally to me. (He really is the sweetest man!) So maybe that is why I’m finding that learning the program Sketch and designing websites have been the most fun aspect of web development for me.&lt;/p&gt;
+&lt;!-- As I have finished every course in my Front End Development Track from Treehouse. I have really favored anything design related. My husband says design comes naturally to me. So maybe that is why I'm finding that learning the program Sketch and designing websites have been the most fun aspect of web development for me. --&gt;
 
-&lt;p&gt;I owe all my motivation to learn design with Sketch to Charlie Marie. I mentioned her as a motivator of mine in a previous blog post. Recently, I have been binge-watching her youtube channel and started listening to her podcast Design Life which is co-hosted by Uber designer Femke.&lt;/p&gt;
+&lt;p&gt;I owe all my motivation to learn design with Sketch to Charlie Marie. Recently, I have been binge-watching her youtube channel and started listening to her podcast Design Life which is co-hosted by Uber designer Femke.&lt;/p&gt;
 
 &lt;p&gt;Their podcast has a theme for each episode as well and really dive into many aspects of design life (hence the title). Topics they talk about range from side projects, creating a personal brand, and formal education vs. self-teaching. They also share tips for staying focused and motivated, setting goals, and time management.&lt;/p&gt;
 
 &lt;p&gt;I definitely relate to their need for side projects as an outlet for their creativity.&lt;/p&gt;
 
-&lt;p&gt;I have always had multiple things on my plate even before learning to code. These included multiple scrapbooks, travel itineraries, interior design, tumble accounts and random art projects I did around my full-time job.&lt;/p&gt;
+&lt;p&gt;I have always had multiple things on my plate even before learning to code. These included multiple scrapbooks, travel itineraries, interior design, and random art projects I did around my full-time job.&lt;/p&gt;
 
-&lt;p&gt;I am really excited to have such an extensive list of podcasts to listen to. These really are a new way of learning information that is both entertaining and fun.&lt;/p&gt;</content><author><name></name></author><summary type="html">I am not a morning person.</summary></entry><entry><title type="html">Everybody Writes</title><link href="http://localhost:4000/blog/everybody-writes" rel="alternate" type="text/html" title="Everybody Writes" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-7</id><content type="html" xml:base="http://localhost:4000/blog/everybody-writes">&lt;p&gt;One of my goals when starting this site was to knock out a blog post every week documenting my coding journey.&lt;/p&gt;
+&lt;p&gt;I am really excited to have such an extensive list of podcasts to listen to. These really are a new way of learning information that is both entertaining and fun.&lt;/p&gt;</content><author><name></name></author><summary type="html">I am not a morning person. When I do eventually emerge from my bed, I stumble straight to my Keurig to make a cup of coffee then promptly go back to my warm bed to enjoy it. In the past, I used this time to catch up on social media and check e-mails but I have found a far more beneficial task to do instead- listen to podcasts.</summary></entry><entry><title type="html">Everybody Writes</title><link href="http://localhost:4000/blog/everybody-writes" rel="alternate" type="text/html" title="Everybody Writes" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-7</id><content type="html" xml:base="http://localhost:4000/blog/everybody-writes">&lt;p&gt;One of my goals when starting this site was to knock out a blog post every week documenting my coding journey.
+&lt;!--more--&gt;
+This task seemed easy and achievable but after struggling through my first three posts I realized I didn’t really know how to write. A blog post every week became more of a chore and less of the free-flowing creative exercise I thought it would be.&lt;/p&gt;
 
-&lt;p&gt;This task seemed easy and achievable but after struggling through my first three posts I realized I didn’t really know how to write. A blog post every week became more of a chore and less of the free-flowing creative exercise I thought it would be.&lt;/p&gt;
-
-&lt;p&gt;I was constantly running into questions about punctuation, grammar, and the flow of blog posts. Familiar with the wireframing process for the layout of websites and apps,  there was probably some process to organize the structure of my writing. I just needed to learn how.&lt;/p&gt;
+&lt;p&gt;I was constantly running into questions about punctuation, grammar, and the flow of blog posts. Familiar with the wireframing process for the layout of websites and apps, there was probably some process to organize the structure of my writing. I just needed to learn how.&lt;/p&gt;
 
 &lt;p&gt;To improve my writing for blogs specifically, I turned to Google and read Amazon reviews for recommended books. This led me to buy Everybody Writes by Ann Handley. Honestly, I struck gold. It included all the advice I was looking for and more I didn’t know I needed.&lt;/p&gt;
 
-&lt;p&gt;“Everybody Writes is designed to be your go-to guide for creating or publishing any kind of online content- whether you’re working for a big brand or a small business… or yourself.”&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Everybody Writes is designed to be your go-to guide for creating or publishing any kind of online content- whether you’re working for a big brand or a small business… or yourself.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;At first, I was surprised by the size of the book. It holds like a novel and reads easily like a comedian’s memoir. Even though the content is very comprehensive, it is organized well and to the point.  I felt like I met a new friend that shared her juicy secrets of the online marketing world with me over pedicures and mimosas.&lt;/p&gt;
 
 &lt;p&gt;As I started reading this book I immediately identified as one of the many people she was writing for. Really understanding that everyone is a writer whether they think they are or not. She makes writing better seem possible and not some huge undertaking.&lt;/p&gt;
 
-&lt;p&gt;It became clear to me that I no longer needed to write better blogs as much as I needed to become better in all my writing, including my social media platforms. My writing is my voice to the masses (or select few) and will help establish my online identity and personal brand. Chapter Voice and Tone brought that to light with really funny examples.&lt;/p&gt;
+&lt;!-- It became clear to me that I no longer needed to write better blogs as much as I needed to become better in all my writing, including my social media platforms. My writing is my voice to the masses (or select few) and will help establish my online identity and personal brand. Chapter Voice and Tone brought that to light with really funny examples. --&gt;
 
-&lt;p&gt;“The truth is this: writing well is part habit, part knowledge of some fundamental rules, and part giving a damn.” Ann writes on the first page.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“The truth is this: writing well is part habit, part knowledge of some fundamental rules, and part giving a damn.” Ann writes on the first page.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;I definitely give a damn. I can learn the fundamental rules but writing as a habit… that will take the most work for me. To become a better writer you must write. Something I try to keep in mind for coding as well. I should probably also add going to the gym as a habit-in-progress.&lt;/p&gt;
+&lt;p&gt;I definitely give a damn. I can learn the fundamental rules but writing as a habit… that will take the most work for me. To become a better writer, you must write. Something I try to keep in mind for coding as well. I should probably also add going to the gym as a habit-in-progress.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;A note on sticky-notes&lt;/em&gt;&lt;/p&gt;
+&lt;!-- *A note on sticky-notes*
 
-&lt;p&gt;With all my books I use as study material I sticky-note the hell out of them. I can easily go through the book from one point of relevance to another, thanks to me taking each page seriously and marking what is important information for me. Having fun color-coded notes allows a ton of information to be easily attainable whenever I need it.&lt;/p&gt;
+With all my books I use as study material I sticky-note the hell out of them. I can easily go through the book from one point of relevance to another, thanks to me taking each page seriously and marking what is important information for me. Having fun color-coded notes allows a ton of information to be easily attainable whenever I need it.
 
-&lt;p&gt;Getting back to Everybody Writes, I mentioned earlier that this was filled with information I didn’t know I needed.  I was concerned with grammar and spelling thinking that was what I should be concerned about. As Ann states in Part Two of her book: “Most people think that writing is grammar. But good writing is more about thinking, rewriting, and keeping your focus relentlessly on the reader.” She has grammar and usage in part two of her book because she believes “in many ways grammar and usage are secondary”.&lt;/p&gt;
+Getting back to Everybody Writes, I mentioned earlier that this was filled with information I didn't know I needed.  I was concerned with grammar and spelling thinking that was what I should be concerned about. As Ann states in Part Two of her book: &quot;Most people think that writing is grammar. But good writing is more about thinking, rewriting, and keeping your focus relentlessly on the reader.&quot; She has grammar and usage in part two of her book because she believes &quot;in many ways grammar and usage are secondary&quot;. --&gt;
 
-&lt;p&gt;Part One gave me a lot of tools for how to think about my writing. (Which I never gave much thought to until now). Some of the chapters that I am really going to begin incorporating in my writing include:&lt;/p&gt;
+&lt;!-- Part One gave me a lot of tools for how to think about my writing. (Which I never gave much thought to until now). Some of the chapters that I am really going to begin incorporating in my writing include:
 
-&lt;p&gt;Follow a Writing GPS
+Follow a Writing GPS
 Place The Most Important Words (and Ideas) at the Beginning of Each Sentence
 Embrace The Ugly First Draft
-There are six total parts to the just under 300-page book but I am not going to go in depth with them here. Other need to know subjects Ann fills you in on are: how to write ethically, writing for social media, and marketing content. She also gives an extensive list of tools for editing, writing, image sources and more.&lt;/p&gt;
+There are six total parts to the just under 300-page book but I am not going to go in depth with them here. Other need to know subjects Ann fills you in on are: how to write ethically, writing for social media, and marketing content. She also gives an extensive list of tools for editing, writing, image sources and more. --&gt;
 
-&lt;p&gt;Everybody Writes is full of useful information. Ever page included smart advice and entertaining examples. I got very lucky choosing this as my first how-to-write book and feel like any other one will now just be disappointing.&lt;/p&gt;
+&lt;p&gt;Everybody Writes is full of useful information. Every page included smart advice and entertaining examples. I got very lucky choosing this as my first how-to-write book and feel like any other one will now just be disappointing.&lt;/p&gt;
 
 &lt;p&gt;I highly recommend this book to everybody since, after all, everybody writes.&lt;/p&gt;</content><author><name></name></author><summary type="html">One of my goals when starting this site was to knock out a blog post every week documenting my coding journey.</summary></entry></feed>
