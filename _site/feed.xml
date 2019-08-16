@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-08-15T12:54:15-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog</title><subtitle>a blog about learning to code from home </subtitle><entry><title type="html">Learning Sketch</title><link href="http://localhost:4000/blog/learning-sketch" rel="alternate" type="text/html" title="Learning Sketch" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-1</id><content type="html" xml:base="http://localhost:4000/blog/learning-sketch">&lt;p&gt;The learning curve for Sketch is not that steep. That being said, I need a refresher every now and then on it’s different aspects and best practices. Here are some of the main resources that I recomend. 
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2019-08-16T14:25:39-05:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Blog</title><subtitle>a blog about learning to code from home </subtitle><entry><title type="html">Learning Sketch</title><link href="http://localhost:4000/blog/learning-sketch" rel="alternate" type="text/html" title="Learning Sketch" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-1</id><content type="html" xml:base="http://localhost:4000/blog/learning-sketch">&lt;p&gt;The learning curve for Sketch is not that steep. That being said, I need a refresher every now and then on it’s different aspects and best practices. Here are some of the main resources that I recomend. 
 &lt;!--more--&gt;
 I was introduced to Sketch after watching Charlie Marie ’s YouTube videos Introduction to Sketch for Web Design and Designing a Landing Page in Sketch - Tutorial.&lt;/p&gt;
 
@@ -145,7 +145,7 @@ Codecademy is a popular free online school that has chapter-like sections with�
 
 &lt;p&gt;Treehouse has many pre-setup tracks you can take and videos in their library. They also update these with new information and content often. With over 1,000 videos on their site, I don’t see myself getting bored anytime soon.&lt;/p&gt;</content><author><name></name></author><summary type="html">The first online tutorials I started learning to code with was on Codecademy.</summary></entry><entry><title type="html">Coding Podcasts</title><link href="http://localhost:4000/blog/coding-podcasts" rel="alternate" type="text/html" title="Coding Podcasts" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-6</id><content type="html" xml:base="http://localhost:4000/blog/coding-podcasts">&lt;p&gt;I am not a morning person.&lt;/p&gt;
 
-&lt;p&gt;When I do eventually emerge from my bed, I stumble straight to my Keurig to make a cup of coffee then promptly go back to my warm bed to enjoy it. In the past, I used this time to catch up on social media and check e-mails but I have found a far more beneficial task to do instead- listen to podcasts.
+&lt;p&gt;When I do eventually emerge from my bed, I stumble straight to my Keurig to make a cup of coffee then promptly go back to my warm bed to enjoy it. In the past, I used this time to catch up on social media but I have found a far more beneficial task to do instead- listen to podcasts.
 &lt;!--more--&gt;
 Listening to a podcast in the morning requires hardly any energy and effort, is still productive and also entertaining. Listening to other people talk about their careers and their path learning to program first thing in the morning really motivates me to keep studying. It puts me in the right mindset to get to my computer and continue with Treehouse videos or work on my own projects.&lt;/p&gt;
 
@@ -170,6 +170,8 @@ Listening to a podcast in the morning requires hardly any energy and effort, is 
   &lt;p&gt;“Podcasts are simply radio-style audio shows distributed over the internet, usually for free. They provide an excellent way to consume quality information while performing daily tasks such as commuting, cleaning, or working out.” -Ayo Isaiah&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;&lt;img src=&quot;images/code-newbie.jpg&quot; alt=&quot;code-newbie&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;I regularly listen to Code Newbie, and Front End Happy Hour. Newly added to my podcast list is Design Life.&lt;/p&gt;
 
 &lt;p&gt;Code Newbie is the podcast I listen to the most. The shows’ host Saron,  has a smooth voice and is quick with questions that lead the conversations and interviews very well.&lt;/p&gt;
@@ -188,9 +190,13 @@ Listening to a podcast in the morning requires hardly any energy and effort, is 
 
 &lt;p&gt;The podcast stays true to its name by keeping the beginner developer (newbie) as the target audience for each episode. Saron does an excellent job extracting useful information from her guests that will benefit any new coder.&lt;/p&gt;
 
-&lt;p&gt;As stated on their Twitter profile -&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/front-end-happy-hour-logo-banner.jpg&quot; alt=&quot;Front-End-Happy-Hour&quot; class=&quot;img-responsive&quot; height=&quot;315px&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Front End Happy Hour is a podcast featuring panelists of engineers from Netflix, Evernote, Atlassian &amp;amp; LinkedIn talking over drinks about all things Front End development.&lt;/p&gt;
+&lt;p&gt;As stated on Front End Happy Hour’s Twitter profile -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Front End Happy Hour is a podcast featuring panelists of engineers from Netflix, Evernote, Atlassian &amp;amp; LinkedIn talking over drinks about all things Front End  development.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Each episode they choose a keyword related to that day’s topic of discussion. Whenever the keyword is said, they all have to take a drink. &lt;em&gt;Clink&lt;/em&gt; “CHEERS!”&lt;/p&gt;
 
@@ -198,25 +204,26 @@ Listening to a podcast in the morning requires hardly any energy and effort, is 
 
 &lt;p&gt;Two women working in large tech companies Uber and Netflix join the happy hour group of speakers and share their personal experiences and thoughts on a more inclusive industry.&lt;/p&gt;
 
-&lt;p&gt;All the speakers are fun, open minded and easy going people. I love how they meet up and discuss these important issues over drinks. They are easy to relate to and would definitely be a fun group to join for happy hour.&lt;/p&gt;
+&lt;p&gt;All the speakers are fun, open minded and easy going people. I love how they meet up and discuss these important issues over drinks. They are easy to relate to and would definitely be a fun group to join for happy hour.
+&lt;!-- 
+The men in the group talk about their unconscious bias experiences and how they analyzed their thoughts or behavior. They admit embarrassment but wish someone would have called them out on their actions. It's a hard topic to talk about but only because it isn't talked about often enough. I totally agree that talking about gender biases more openly and freely will break down the unconscious biases people may have. --&gt;&lt;/p&gt;
 
-&lt;p&gt;The men in the group talk about their unconscious bias experiences and how they analyzed their thoughts or behavior. They admit embarrassment but wish someone would have called them out on their actions. It’s a hard topic to talk about but only because it isn’t talked about often enough. I totally agree that talking about gender biases more openly and freely will break down the unconscious biases people may have.&lt;/p&gt;
-
-&lt;p&gt;I love learning about women in tech and their inspirations and I know it doesn’t come without hardships. Hearing men and women talk about what can be done for a more inclusive workplace is awesome and motivating. Gender bias doesn’t have to be a hard-to-have conversation and this episode is a great example of that.&lt;/p&gt;
-
-&lt;p&gt;Some of the topics they discuss are a bit over my head but since their episodes include a variety of topics for all skill levels, I just skip to a different one. There’s always another episode I can enjoy and revisit any skipped episodes when I’m more familiar with the topic.&lt;/p&gt;
+&lt;p&gt;I love learning about women in tech and their inspirations and I know it doesn’t come without hardships. Hearing men and women talk about what can be done for a more inclusive workplace is awesome and motivating. Gender bias doesn’t have to be a hard-to-have conversation and this episode is a great example of that.
+&lt;!-- 
+Some of the topics they discuss are a bit over my head but since their episodes include a variety of topics for all skill levels, I just skip to a different one. There's always another episode I can enjoy and revisit any skipped episodes when I'm more familiar with the topic. --&gt;&lt;/p&gt;
 
 &lt;!-- As I have finished every course in my Front End Development Track from Treehouse. I have really favored anything design related. My husband says design comes naturally to me. So maybe that is why I'm finding that learning the program Sketch and designing websites have been the most fun aspect of web development for me. --&gt;
 
+&lt;p&gt;&lt;img src=&quot;images/design-life.jpg&quot; alt=&quot;Design-Life&quot; class=&quot;img-responsive&quot; height=&quot;268px&quot; width=&quot;268px&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;I owe all my motivation to learn design with Sketch to Charlie Marie. Recently, I have been binge-watching her youtube channel and started listening to her podcast Design Life which is co-hosted by Uber designer Femke.&lt;/p&gt;
 
-&lt;p&gt;Their podcast has a theme for each episode as well and really dive into many aspects of design life (hence the title). Topics they talk about range from side projects, creating a personal brand, and formal education vs. self-teaching. They also share tips for staying focused and motivated, setting goals, and time management.&lt;/p&gt;
+&lt;p&gt;Their podcast has a theme for each episode as well and really dive into many aspects of the life of a Designer. Topics they talk about range from side projects, creating a personal brand, and formal education vs. self-teaching. They also share tips for staying focused and motivated, setting goals, and time management.&lt;/p&gt;
 
-&lt;p&gt;I definitely relate to their need for side projects as an outlet for their creativity.&lt;/p&gt;
+&lt;p&gt;I definitely relate to their need for side projects as an outlet for their creativity.
+I have always had multiple things on my plate even before learning to code. These included multiple scrapbooks, travel itineraries, interior design, and random art projects I did around my full-time job.&lt;/p&gt;
 
-&lt;p&gt;I have always had multiple things on my plate even before learning to code. These included multiple scrapbooks, travel itineraries, interior design, and random art projects I did around my full-time job.&lt;/p&gt;
-
-&lt;p&gt;I am really excited to have such an extensive list of podcasts to listen to. These really are a new way of learning information that is both entertaining and fun.&lt;/p&gt;</content><author><name></name></author><summary type="html">I am not a morning person. When I do eventually emerge from my bed, I stumble straight to my Keurig to make a cup of coffee then promptly go back to my warm bed to enjoy it. In the past, I used this time to catch up on social media and check e-mails but I have found a far more beneficial task to do instead- listen to podcasts.</summary></entry><entry><title type="html">Everybody Writes</title><link href="http://localhost:4000/blog/everybody-writes" rel="alternate" type="text/html" title="Everybody Writes" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-7</id><content type="html" xml:base="http://localhost:4000/blog/everybody-writes">&lt;p&gt;One of my goals when starting this site was to knock out a blog post every week documenting my coding journey.
+&lt;p&gt;Listening to podcasts has been a new way of learning information that is both entertaining and fun. I will keep on the lookout for more channels to add to my rotation.&lt;/p&gt;</content><author><name></name></author><summary type="html">I am not a morning person. When I do eventually emerge from my bed, I stumble straight to my Keurig to make a cup of coffee then promptly go back to my warm bed to enjoy it. In the past, I used this time to catch up on social media but I have found a far more beneficial task to do instead- listen to podcasts.</summary></entry><entry><title type="html">Everybody Writes</title><link href="http://localhost:4000/blog/everybody-writes" rel="alternate" type="text/html" title="Everybody Writes" /><published>2019-07-08T16:48:42-05:00</published><updated>2019-07-08T16:48:42-05:00</updated><id>http://localhost:4000/blog/post-7</id><content type="html" xml:base="http://localhost:4000/blog/everybody-writes">&lt;p&gt;One of my goals when starting this site was to knock out a blog post every week documenting my coding journey.
 &lt;!--more--&gt;
 This task seemed easy and achievable but after struggling through my first three posts I realized I didn’t really know how to write. A blog post every week became more of a chore and less of the free-flowing creative exercise I thought it would be.&lt;/p&gt;
 

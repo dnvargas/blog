@@ -564,7 +564,11 @@ nav ul, footer ul {
   margin: 10% 20%;
   text-align: center;
 }
-
+.img-responsive
+{
+margin: 0 auto;
+display: block;
+}
 @media (min-width: 768px) {
   .post-title {
   margin: 5% 30% 0% 30%;
